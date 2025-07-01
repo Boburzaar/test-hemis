@@ -1,0 +1,10 @@
++++++
+O‘zbekistondagi davlat va xo‘jalik hamda mahalliy ijro etuvchi hokimiyat organlarining raqamli transformatsiya holatini reytingi qaysi indekslar orqali aniqlandi
+=====
+# Axborot xavfsizligi indeksi, ochiqlik va elektron ishtirok indeksi, elektron davlat xizmatlari indeksi, tashkiliy masalalar, faoliyatni raqamlashtirilganlik indeksi
+=====
+Raqamli o'n yillik indeksi, ochiqlik va elektron ishtirok indeksi, elektron davlat xizmatlari indeksi, tashkiliy masalalar, faoliyatni raqamlashtirilganlik indeksi
+=====
+Axborot xavfsizligi indeksi, internetdan foydalanganlik, elektron davlat xizmatlari indeksi, tashkiliy masalalar, faoliyatni raqamlashtirilganlik indeksi, ochiqlik indeksi
+=====
+Kiberxavfsizligi indeksi, ochiqlik ishtirok indeksi, elektron davlat xizmatlari indeksi
